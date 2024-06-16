@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "short_description": "A traditional Italian pasta dish with creamy sauce and crispy bacon.",
+    "ingredients": [
+      "350 g spaghetti",
+      "150 g pancetta or bacon, diced",
+      "3 large eggs",
+      "75 g grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "Salt and black pepper to taste"
+    ],
+    "preparing_time": 20,
+    "calories": 450,
+    "recipe_image": "https://myplate-prod.azureedge.us/sites/default/files/styles/large/public/2021-09/OnePanSpaghetti_527x323.jpg?itok=pvrcTQJ_"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Homemade Margherita Pizza",
+    "short_description": "A classic pizza topped with fresh tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "300 g pizza dough",
+      "200 g fresh mozzarella cheese, sliced",
+      "3 ripe tomatoes, sliced",
+      "Handful of fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 30,
+    "calories": 380,
+    "recipe_image": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-margherita-pizza-1611491820.jpg"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Lemon Garlic Roast Chicken",
+    "short_description": "Juicy and flavorful roast chicken with a zesty lemon-garlic marinade.",
+    "ingredients": [
+      "1 whole chicken (about 1.5 kg)",
+      "4 cloves garlic, minced",
+      "Zest and juice of 2 lemons",
+      "2 tbsp olive oil",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 90,
+    "calories": 380,
+    "recipe_image": "https://www.eatwell101.com/wp-content/uploads/2021/02/baked-chicken-thighs-recipe-5.jpg"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Fried Rice",
+    "short_description": "A quick and tasty fried rice loaded with colorful vegetables.",
+    "ingredients": [
+      "300 g cooked rice",
+      "1 cup mixed vegetables (carrots, peas, bell peppers, etc.)",
+      "2 eggs, beaten",
+      "3 tbsp soy sauce",
+      "2 cloves garlic, minced",
+      "2 tbsp vegetable oil"
+    ],
+    "preparing_time": 25,
+    "calories": 320,
+    "recipe_image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Baked Salmon with Lemon Herb Butter",
+    "short_description": "Tender baked salmon fillets seasoned with a fragrant lemon herb butter.",
+    "ingredients": [
+      "4 salmon fillets",
+      "50 g unsalted butter, melted",
+      "Zest and juice of 1 lemon",
+      "2 tbsp chopped fresh herbs (parsley, dill, chives)",
+      "2 tbsp chopped fresh letus ",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 20,
+    "calories": 280,
+    "recipe_image": "https://www.inspiredtaste.net/wp-content/uploads/2018/09/Easy-Oven-Baked-Salmon-Recipe-2-1200.jpg"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Mushroom Risotto",
+    "short_description": "Creamy and rich risotto with earthy mushrooms and Parmesan cheese.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "200 g mushrooms (e.g., button, cremini), sliced",
+      "1 onion, finely chopped",
+      "1 litre vegetable or chicken broth",
+      "100 ml dry white wine",
+      "50 g grated Parmesan cheese"
+    ],
+    "preparing_time": 40,
+    "calories": 360,
+    "recipe_image": "https://www.eatingwell.com/thmb/N_0xtwSPPGe7L1YA7O8Uhxm9LfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MushroomRisotto-Beauty-2825-b89fc407ca374feb997e10db2854a2a7.jpg"
+  }
+]
